@@ -1,0 +1,18 @@
+3/14
+
+Started with Startup firebase. the yellow page not tell how I did it from
+
+https://www.robinwieruch.de/complete-firebase-authentication-react-tutorial/#react-application-setup-create-react-app
+
+File on laptop under desktop/Blog Auth/ReactFirebaseTestbed
+
+
+Concentrate on using laptop to get working
+
+Still need to get dependencies w
+
+App/index.js
+Restore 3/12 /2022 10:04:44 AM
+
+3/22
+install react-route-dom@5.1 fixes the problem
